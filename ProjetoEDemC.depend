@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1523382404 source:c:\users\aluno\desktop\projetoedc\projetoedemc\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"functions.h"
+
+1523383896 c:\users\aluno\desktop\projetoedc\projetoedemc\functions.h
+
+1523384534 source:c:\users\aluno\desktop\projetoedc\projetoedemc\functions.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"functions.h"
+
+1523539184 source:c:\users\aluno\desktop\projetoedemc-20180414t000458z-001\projetoedemc\main.c
+	<stdlib.h>
+	<stdio.h>
+	<sys/time.h>
+	"functions.h"
+
+1523539184 c:\users\aluno\desktop\projetoedemc-20180414t000458z-001\projetoedemc\functions.h
+
